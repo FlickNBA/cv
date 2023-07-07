@@ -16,3 +16,9 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
+
+.profilePicture {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
