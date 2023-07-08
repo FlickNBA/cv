@@ -18,6 +18,7 @@ body {
 }
 
 .profilePicture {
+  background-image: url(../images/avatar.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
